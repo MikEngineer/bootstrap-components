@@ -1,0 +1,17 @@
+.header-custom {
+    background-image: url(./media/cinema\ bg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.linkSocial {
+    list-style-type: none;
+    text-decoration: none;
+    color: black;
+}
+
+.colFooter {
+    flex-direction: column;
+}
